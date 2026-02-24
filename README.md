@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=radical&rank_icon=github" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=radical" height="150" alt="Languages" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ModerniMan?cardType=githubToken&theme=tokyonight" height="150" alt="Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/top-langs/ModerniMan?cardType=githubToken&theme=tokyonight" height="150" alt="Languages" />
 </p>
 
 ---
