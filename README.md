@@ -30,3 +30,7 @@
 ![Niche Perfumes](https://img.shields.io/badge/Niche_Perfumes-555555?style=flat-square&logo=target&logoColor=white)
 ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-FFD700?style=flat-square&logo=lightbulb&logoColor=black)
 ![Tech_History](https://img.shields.io/badge/Tech_History-0078D4?style=flat-square&logo=book&logoColor=white)
+
+### 📊 GitHub Stats
+![ModerniMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=radical)
