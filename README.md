@@ -1,9 +1,8 @@
 # ![Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=false&vCenter=false&width=435&lines=Software+Developer;IT+Operations+Specialist;FXP+DevTools+Manager)
-![Open Source Love](https://img.shields.io/badge/Open_to_Work-YES-green?style=for-the-badge)
 
 ### אהלן, אני ליפז 👋
 
-מפתח ומנהל תשתיות, מנהל צוות **FXP DevTools** ומתנדב ב**ידידים**.
+מפתח ומנהל תשתיות, מנהל צוות **FXP DevTools** ומוביל פרויקטים בקהילת **ידידים**.
 
 💻 **טכנולוגיות וכלים:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,16 +20,18 @@
 
 🚀 **פרויקטים נוכחיים:**
 * **FXP DevTools Team**: פיתוח עדכונים וכלים עבור מפקחי ומנהלי קהילת FxP לזכרו של ניב אורבינו ז"ל.
-* **Yedidim Statistics (פרויקט לא רשמי)**: פיתוח מחולל נתונים וסטטיסטיקה עבור סניפי ידידים (פעיל ב-3 סניפים) לעילוי נשמת ניב אורבינו ז"ל. 🛠️
+* **Yedidim Statistics (פרויקט לא רשמי)**: פיתוח מחולל נתונים עבור סניפי ידידים (פעיל ב-3 סניפים) לעילוי נשמת ניב אורבינו ז"ל. הפרויקט מנוהל כעת תחת ארגון ייעודי.
 
 🌐 **האתר שלי:** [moderniman.xyz](https://moderniman.xyz/)
+
+---
+
+📊 **GitHub Stats**
+![ModerniMan's Stats](https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=dark)
 
 ---
 🔍 **תחומי עניין:**
 ![Niche Perfumes](https://img.shields.io/badge/Niche_Perfumes-555555?style=flat-square&logo=target&logoColor=white)
 ![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-FFD700?style=flat-square&logo=lightbulb&logoColor=black)
 ![Tech_History](https://img.shields.io/badge/Tech_History-0078D4?style=flat-square&logo=book&logoColor=white)
-
-### 📊 GitHub Stats
-![ModerniMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=radical)
