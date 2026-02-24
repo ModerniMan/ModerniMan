@@ -26,10 +26,10 @@
 
 ---
 
-📊 **GitHub Stats**
-![ModerniMan's Stats](https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ModerniMan&show_icons=true&theme=dark" alt="ModerniMan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModerniMan&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 ---
 🔍 **תחומי עניין:**
 ![Niche Perfumes](https://img.shields.io/badge/Niche_Perfumes-555555?style=flat-square&logo=target&logoColor=white)
