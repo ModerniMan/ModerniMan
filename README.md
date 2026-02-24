@@ -33,7 +33,6 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ModerniMan?cardType=githubToken&theme=tokyonight" height="150" alt="Stats" />
-  <img src="https://awesome-github-stats.azurewebsites.net/top-langs/ModerniMan?cardType=githubToken&theme=tokyonight" height="150" alt="Languages" />
 </p>
 
 ---
