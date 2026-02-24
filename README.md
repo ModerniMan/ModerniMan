@@ -1,4 +1,5 @@
 # ![Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=false&vCenter=false&width=435&lines=Software+Developer;IT+Operations+Specialist;FXP+DevTools+Manager)
+![Open Source Love](https://img.shields.io/badge/Open_to_Work-YES-green?style=for-the-badge)
 
 ### אהלן, אני ליפז 👋
 
